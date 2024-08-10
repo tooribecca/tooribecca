@@ -1,16 +1,14 @@
-## Hi there 👋
+## seja bem vindo ao meu perfil 💟👋
 
-<!--
-**tooribecca/tooribecca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_me chamo Vitoria Rebecca_ 
 
-Here are some ideas to get you started:
+_tenho 15 anos_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- estou estudando na alura
+
+**caso queira saber mais sobre mim 
+me siga** ⏬⏬
+
+[insta](https://www.instagram.com/tori._.becca?igsh=bmZ3NXR4Z2V5Mzkw) 💙
+
+![](https://media.tenor.com/N3MuqEvUkjcAAAAi/millie-bobby-brown-hi.gif)
